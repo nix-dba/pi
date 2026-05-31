@@ -1,0 +1,5 @@
+diff_view = "side-by-side"
+appearance = "dark"
+mouse = true
+leader = ","
+review_watch_interval_ms = 1000
