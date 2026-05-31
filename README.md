@@ -1,6 +1,6 @@
 # Pi Agent
 
-Sandboxed pi agent environment with code intelligence, running via Nix with Bubblewrap isolation.
+Sandboxed pi agent environment running via Nix with Bubblewrap isolation.
 
 ## Usage
 

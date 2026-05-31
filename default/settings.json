@@ -1,14 +1,17 @@
 {
   "lastChangelogVersion": "0.78.0",
-  "skills": [
-    "~/ai_agent_dotfiles/shared/skills"
-  ],
   "enableSkillCommands": true,
+  "skills": [
+    "~/.pi/agents/skills"
+  ],
   "packages": [
     "git:github.com/earendil-works/pi-review",
     "npm:pi-web-access",
     "npm:pi-rtk-optimizer",
     "git:github.com/md-riaz/omniroute-pi-ext-integration"
   ],
-  "quietStartup": true
+  "theme": "dark",
+  "quietStartup": true,
+  "collapseChangelog": true,
+  "enableInstallTelemetry": false
 }
