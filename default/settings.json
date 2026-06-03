@@ -8,7 +8,7 @@
     "git:github.com/earendil-works/pi-review",
     "npm:pi-web-access",
     "npm:pi-rtk-optimizer",
-    "git:github.com/md-riaz/omniroute-pi-ext-integration"
+    "git:github.com/nix-dba/omniroute-pi-ext-integration"
   ],
   "theme": "dark",
   "quietStartup": true,
